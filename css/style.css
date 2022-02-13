@@ -1,0 +1,10 @@
+.formatowanie_input, .content{
+    display: flex;
+    padding: 5px;
+}
+.wyrownianie {
+    margin-top: auto;
+  }
+output{
+    margin-top: 16px;
+}
